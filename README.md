@@ -55,8 +55,8 @@ plt.title("Customer Segments")
 
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: VIGNESH G
-RegisterNumber: 212224230301
+Developed by: SUDHARSANAN U
+RegisterNumber: 212224230276
 */
 ```
 
